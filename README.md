@@ -6,8 +6,8 @@ This research project focuses on automating the detection of road infrastructure
 ## 📊 Project Highlights
 - **Dataset:** Curated and preprocessed **6,000+ images** of road surfaces.
 - **Techniques:** Applied advanced **Data Augmentation** to handle class imbalance.
-- **Models Benchmarked:** [Comparison of Custom CNN, VGG16, ResNet, etc. - *আপনার মডেলগুলোর নাম এখানে দিতে পারেন*]
-- **Outcome:** Achieved [XX]% accuracy with the best-performing model.
+- **Models Benchmarked:** [Comparison of Custom CNN, Dense-Net-201, Efficient-Net-B7, VGG-19, ResNet50, MobileNet-V2, Xception]
+- **Outcome:** Achieved 97.16% accuracy with the best-performing model.
 
 ## 🛠️ Tech Stack
 - **Language:** Python
@@ -15,10 +15,15 @@ This research project focuses on automating the detection of road infrastructure
 - **Environment:** Google Colab
 
 ## 📈 Performance Analysis
-*(If you have the comparison chart image, upload it to the repo and link it here like this:)*
-![Model Comparison Chart](link-to-your-image.png)
+
+Model Comparison Chart
+<img width="753" height="493" alt="comparison_graph" src="https://github.com/user-attachments/assets/c035369a-3e79-476c-9ee4-29c064ce7768" />
+
+
+<img width="855" height="488" alt="image" src="https://github.com/user-attachments/assets/87ee7b30-d42b-49e8-831a-25a7749fa13f" />
+
 
 > This project demonstrates the end-to-end pipeline of a Machine Learning research project, from data collection to model evaluation.
 
----
+
 *Developed by Md.Shadman Shihab*
